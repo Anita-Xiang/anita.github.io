@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Shenzhen, China, Southern University of Science and Technology, Nov.2017-Present
-  Major: Material Science and Technology
-  Topic: photocatalyst
+  * Major: Material Science and Technology
+  * Topic: photocatalyst
 
 Work experience
 ======
